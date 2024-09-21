@@ -1,7 +1,5 @@
 # Event-Scheduler-System
 
-# Event Scheduler System
-
 The **Event Scheduler System** is a Spring Boot-based application that provides functionality for managing user accounts, calendars, and events. It allows users to register, log in, and manage their calendars. Events can be created, updated, deleted, and organizers can reschedule or update the location of events. The system ensures security through JWT-based authentication and role-based access control.
 
 ## Features
